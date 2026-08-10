@@ -48,7 +48,7 @@ Full code: [`churn_model.py`](churn_model.py) / [`churn_eda_model.ipynb`](churn_
 | Logistic Regression | **75.9%** | **0.771** |
 | Decision Tree | 75.7% | 0.760 |
 
-> These are the actual metrics reproduced on this synthetic dataset. They're close to, but not identical to, earlier reported figures (84% / 0.79) — synthetic data won't perfectly reproduce results from the original (lost) dataset. Re-run `python/churn_model.py` to verify.
+> These are the actual metrics reproduced on this synthetic dataset. They're close to, but not identical to, earlier reported figures (84% / 0.79) — synthetic data won't perfectly reproduce results from the original (lost) dataset. Re-run `churn_model.py` to verify.
 
 ## 📌 Key Business Insights
 
